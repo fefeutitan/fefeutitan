@@ -28,6 +28,7 @@ I've worked on software for public institutions, healthcare, and operational man
 
 | Repository | What it demonstrates |
 | --- | --- |
+| [open](https://github.com/fefeutitan/open) | Full-stack martial arts tournament management system with Java 21, Spring Boot, Angular, PostgreSQL, automated tests and documented competition workflows |
 | [pedidos](https://github.com/fefeutitan/pedidos) | Legacy Java 8 / Spring Boot project exploring REST, JPA, security and database configuration |
 | [myfirstwebapi](https://github.com/fefeutitan/myfirstwebapi) | Java REST CRUD API with Spring Data JPA, validation and H2 |
 | [alura-books](https://github.com/fefeutitan/alura-books) | React frontend learning project with routing, styling and HTTP-client dependencies |
