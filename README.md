@@ -20,14 +20,14 @@ Earlier experience includes enterprise Java systems, healthcare-related applicat
 
 ## Selected projects
 
-These are **public portfolio and learning repositories**, separate from proprietary systems developed for employers.
+These are **public portfolio and learning repositories**, separate from proprietary systems developed for employers. Projects inspired by my professional experience are presented as independent demonstrations, not institutional software.
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
 | [**Benefícios Online**](https://github.com/fefeutitan/beneficios_online) | Employee benefits platform; public implementation with a modern full-stack architecture | Java 21, Spring Boot 4, Angular 21, PostgreSQL, Flyway, Docker |
 | [**Open**](https://github.com/fefeutitan/open) | Martial arts tournament management: competition phases, matches, results, standings and scorecards; work in progress | Java 21, Spring Boot 4, Angular 21, JPA, Flyway, Playwright |
 | [**Pedidos**](https://github.com/fefeutitan/pedidos) | Educational/legacy REST backend project exploring persistence and authentication | Java 8, Spring Boot 2, JPA, Spring Security |
-| [**api-habit**](https://github.com/fefeutitan/api-habit) | Additional Java API repository | Java |
+| [**api-habit**](https://github.com/fefeutitan/api-habit) | Independent portfolio demo of parliamentary housing-request workflows, inspired by my professional experience at the Brazilian Chamber of Deputies; not the institution's source code or official system | Java 8, Spring Boot 2.7, Spring Data JPA, H2 |
 
 > **Note:** Technologies and features above describe their respective repositories. The public *Benefícios Online* codebase is distinct from the COGERH system and does not imply the employer application was deployed to production.
 
