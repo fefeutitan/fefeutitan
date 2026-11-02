@@ -24,7 +24,7 @@ These are **public portfolio and learning repositories**, separate from propriet
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
-| [**Benefícios Online**](https://github.com/fefeutitan/beneficios_online) | Retirement-benefit application developed for a SEPLAG/COTEC technical selection test; unrelated to the homonymous COGERH employee-benefits system | Java 21, Spring Boot 4, Angular 21, PostgreSQL, Flyway, Docker |
+| [**Retirement Benefits System**](https://github.com/fefeutitan/retirement-benefits-system) | Retirement-benefit application developed for a SEPLAG/COTEC technical selection test; unrelated to the homonymous COGERH employee-benefits system | Java 21, Spring Boot 4, Angular 21, PostgreSQL, Flyway, Docker |
 | [**Open**](https://github.com/fefeutitan/open) | Martial arts tournament management: competition phases, matches, results, standings and scorecards; work in progress | Java 21, Spring Boot 4, Angular 21, JPA, Flyway, Playwright |
 | [**Pedidos**](https://github.com/fefeutitan/pedidos) | Educational/legacy REST backend project exploring persistence and authentication | Java 8, Spring Boot 2, JPA, Spring Security |
 
