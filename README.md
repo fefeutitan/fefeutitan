@@ -10,11 +10,11 @@ I focus on solving business problems through software: replacing manual workflow
 
 ## What I've worked on
 
-- **Water infrastructure monitoring — COGERH:** Designed and built the JRMF REST API and backend within a legacy **Java 8 / Spring Boot** platform. Integrated directly with an **Oracle** database containing water flow measurements, replacing spreadsheet-based tracking and manual reporting with automated collection and processing. Collaborated with developers on the **Angular 21** frontend.
-- **Employee benefits — COGERH:** Designed the *Benefícios onLine* platform and independently developed its medication benefits and reimbursement module using **Java 17 and Angular 21**. Implemented request, review, partial-approval and reimbursement rules, backend authorization, duplicate-request prevention and tests. The module reached **user acceptance testing (UAT)**; other planned modules were not implemented before my departure.
-- **Document processing — COGERH:** Contributed the **low-voltage electricity invoice** processing logic in Java to an OCR-based solution, using an existing Tesseract integration developed by another engineer.
-- **Public-sector systems — Brazilian Chamber of Deputies:** Built and maintained Java REST APIs from scratch for managing official residential apartments. Also developed features for a system that guided and automated the preparation and printing of procurement Terms of Reference documents.
-- **Telecom expense management — SEINFRA:** Worked on a system for managing telephone bills across Ceará State Government departments and agencies.
+- **Water infrastructure monitoring - COGERH:** Designed and built the JRMF REST API and backend within a legacy **Java 8 / Spring Boot** platform. Integrated directly with an **Oracle** database containing water flow measurements, replacing spreadsheet-based tracking and manual reporting with automated collection and processing. Collaborated with developers on the **Angular 21** frontend.
+- **Employee benefits - COGERH:** Designed the *Benefícios onLine* platform and independently developed its medication benefits and reimbursement module using **Java 17 and Angular 21**. Implemented request, review, partial-approval and reimbursement rules, backend authorization, duplicate-request prevention and tests. The module reached **user acceptance testing (UAT)**; other planned modules were not implemented before my departure.
+- **Document processing - COGERH:** Contributed the **low-voltage electricity invoice** processing logic in Java to an OCR-based solution, using an existing Tesseract integration developed by another engineer.
+- **Public-sector systems - Brazilian Chamber of Deputies:** Built and maintained Java REST APIs from scratch for managing official residential apartments. Also developed features for a system that guided and automated the preparation and printing of procurement Terms of Reference documents.
+- **Telecom expense management - SEINFRA:** Worked on a system for managing telephone bills across Ceará State Government departments and agencies.
 
 Earlier experience includes enterprise Java systems, healthcare-related applications, relational databases and technical leadership.
 
@@ -24,9 +24,9 @@ These are **public portfolio and learning repositories**, separate from propriet
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
-| [**ARES — Automated Retirement & Eligibility System**](https://github.com/fefeutitan/retirement-benefits-system) | Retirement-benefit application developed for a SEPLAG/COTEC technical selection test; unrelated to the homonymous COGERH employee-benefits system | Java 21, Spring Boot 4, Angular 21, PostgreSQL, Flyway, Docker |
-| [**MARS — Martial Arts Ranking System**](https://github.com/fefeutitan/open) | Martial arts tournament management: competition phases, matches, results, standings and scorecards; work in progress | Java 21, Spring Boot 4, Angular 21, JPA, Flyway, Playwright |
-| [**AIDA — Artificial Intelligent Document Analyzer**](https://github.com/fefeutitan/aida) | AI-powered document analysis platform; infrastructure bootstrap in progress | Java 21, Spring Boot 4, Spring AI 2, PostgreSQL 17, pgvector, Flyway, Docker |
+| [**ARES - Automated Retirement & Eligibility System**](https://github.com/fefeutitan/retirement-benefits-system) | Retirement-benefit application developed for a SEPLAG/COTEC technical selection test; unrelated to the homonymous COGERH employee-benefits system | Java 21, Spring Boot 4, Angular 21, PostgreSQL, Flyway, Docker |
+| [**MARS - Martial Arts Ranking System**](https://github.com/fefeutitan/open) | Martial arts tournament management: competition phases, matches, results, standings and scorecards; work in progress | Java 21, Spring Boot 4, Angular 21, JPA, Flyway, Playwright |
+| [**AIDA - Artificial Intelligent Document Analyzer**](https://github.com/fefeutitan/aida) | AI-powered document analysis platform; infrastructure bootstrap in progress | Java 21, Spring Boot 4, Spring AI 2, PostgreSQL 17, pgvector, Flyway, Docker |
 | [**Pedidos**](https://github.com/fefeutitan/pedidos) | Educational/legacy REST backend project exploring persistence and authentication | Java 8, Spring Boot 2, JPA, Spring Security |
 
 > **Note:** The public *Benefícios Online* repository was developed for a SEPLAG/COTEC recruitment test concerning retirement benefits. It is a separate project from the homonymous employee-benefits system I worked on at COGERH. Technologies and features listed above describe the public repositories, not employer-owned systems.
@@ -43,7 +43,7 @@ These are **public portfolio and learning repositories**, separate from propriet
 
 ## Education
 
-**B.Sc. in Computer Science** — Federal University of Ceará (UFC), Brazil
+**B.Sc. in Computer Science** - Federal University of Ceará (UFC), Brazil
 
 ## Let's connect
 
