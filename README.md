@@ -26,6 +26,7 @@ These are **public portfolio and learning repositories**, separate from propriet
 | --- | --- | --- |
 | [**Retirement Benefits System**](https://github.com/fefeutitan/retirement-benefits-system) | Retirement-benefit application developed for a SEPLAG/COTEC technical selection test; unrelated to the homonymous COGERH employee-benefits system | Java 21, Spring Boot 4, Angular 21, PostgreSQL, Flyway, Docker |
 | [**Open**](https://github.com/fefeutitan/open) | Martial arts tournament management: competition phases, matches, results, standings and scorecards; work in progress | Java 21, Spring Boot 4, Angular 21, JPA, Flyway, Playwright |
+| [**AIDA — Artificial Intelligent Document Analyzer**](https://github.com/fefeutitan/aida) | AI-powered document analysis platform; infrastructure bootstrap in progress | Java 21, Spring Boot 4, Spring AI 2, PostgreSQL 17, pgvector, Flyway, Docker |
 | [**Pedidos**](https://github.com/fefeutitan/pedidos) | Educational/legacy REST backend project exploring persistence and authentication | Java 8, Spring Boot 2, JPA, Spring Security |
 
 > **Note:** The public *Benefícios Online* repository was developed for a SEPLAG/COTEC recruitment test concerning retirement benefits. It is a separate project from the homonymous employee-benefits system I worked on at COGERH. Technologies and features listed above describe the public repositories, not employer-owned systems.
