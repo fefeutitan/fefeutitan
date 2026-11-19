@@ -24,7 +24,7 @@ These are **public portfolio and learning repositories**, separate from propriet
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
-| [**ARES - Automated Retirement & Eligibility System**](https://github.com/fefeutitan/ares) | Retirement-benefit application developed for a SEPLAG/COTEC technical selection test; unrelated to the homonymous COGERH employee-benefits system | Java 21, Spring Boot 4, Angular 21, PostgreSQL, Flyway, Docker |
+| [**ARES - Automated Retirement & Eligibility System**](https://github.com/fefeutitan/ares) | Retirement-benefit application developed for a SEPLAG/COTEC technical selection test; | Java 21, Spring Boot 4, Angular 21, PostgreSQL, Flyway, Docker |
 | [**MARS - Martial Arts Ranking System**](https://github.com/fefeutitan/mars) | Martial arts tournament management: competition phases, matches, results, standings and scorecards; work in progress | Java 21, Spring Boot 4, Angular 21, JPA, Flyway, Playwright |
 | [**AIDA - Artificial Intelligent Document Analyzer**](https://github.com/fefeutitan/aida) | AI-powered document analysis platform; infrastructure bootstrap in progress | Java 21, Spring Boot 4, Spring AI 2, PostgreSQL 17, pgvector, Flyway, Docker |
 | [**OASIS - Order Administration & Sales Information System**](https://github.com/fefeutitan/oasis) | Educational/legacy REST backend project exploring persistence and authentication | Java 8, Spring Boot 2, JPA, Spring Security |
